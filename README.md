@@ -16,7 +16,7 @@
 
 Let's connect and build the future together! 🌟
 
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/hansen-rulicio/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/hansen-rulicio/)
 [![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg)](https://github.com/Aquos06)
 
 
