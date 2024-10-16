@@ -16,8 +16,10 @@
 
 Let's connect and build the future together! 🌟
 
-![Linkedin: Hansen Rulicio](https://www.linkedin.com/in/hansen-rulicio/)
-![GitHub Hansen Rulicio](https://github.com/gkhan205)
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/hansen-rulicio/)
+[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg)](https://github.com/Aquos06)
+
+
 <!--
 **Aquos06/Aquos06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
