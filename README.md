@@ -14,9 +14,6 @@
 
 📚 Currently learning rust programming language
 
-### Top Languages 🛠️
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aquos06&layout=compact&theme=radical)
-
 #### Let's connect and build the future together! 🌟
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/hansen-rulicio/)
